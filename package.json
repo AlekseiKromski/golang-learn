@@ -1,0 +1,7 @@
+{
+  "filed1": "value",
+  "filed2": 1,
+  "filed3": true,
+  "filed4": [1,2,3,4,5],
+  "filed5": 1.56
+}
